@@ -29,3 +29,14 @@
   * Scaffolding is the automatic creation of CRUD operations while Migration is reflecting changes in the database to the models
 * Seeding the database?
   * Seeding a database is providing the intial data to a database
+
+# Chapter 8:
+
+## Figure 8-5
+![8-5](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%208-5.PNG) 
+## Figure 8-10
+![8-10](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%208-10.PNG) 
+## Figure 8-11
+![8-11](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%208-11.PNG) 
+## Tests
+![tests](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Tests%201.PNG) 

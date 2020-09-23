@@ -30,6 +30,8 @@ namespace ECommerceProject
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

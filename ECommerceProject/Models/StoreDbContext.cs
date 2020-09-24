@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+
 namespace ECommerceProject.Models
 {
     public class StoreDbContext : DbContext
@@ -6,5 +7,6 @@ namespace ECommerceProject.Models
         public StoreDbContext(DbContextOptions<StoreDbContext> options)
         : base(options) { }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Order> Orders { get; set; }
     }
 }

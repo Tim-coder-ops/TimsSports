@@ -268,8 +268,6 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\bin\Debug\netc
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.csprojAssemblyReference.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.AssemblyInfoInputs.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.AssemblyInfo.cs
-C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.csproj.CoreCompileInputs.cache
-C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.RazorAssemblyInfo.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.RazorAssemblyInfo.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.TagHelpers.input.cache
@@ -296,3 +294,6 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netc
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs

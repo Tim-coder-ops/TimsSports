@@ -27,6 +27,7 @@ namespace ECommerceProject
                 Configuration["ConnectionStrings:ECommerceConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
+            services.AddScoped<IOrderRepository, EFOrderRepository>();
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();

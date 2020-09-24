@@ -533,8 +533,8 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\bin\Debu
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csprojAssemblyReference.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.AssemblyInfoInputs.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.AssemblyInfo.cs
-C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CopyComplete
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.dll
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.pdb
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.genruntimeconfig.cache
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject.Tests\obj\Debug\netcoreapp3.1\ECommerceProject.Tests.csproj.CoreCompileInputs.cache

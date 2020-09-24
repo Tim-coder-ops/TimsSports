@@ -295,3 +295,4 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netc
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\ECommerceProject.genruntimeconfig.cache
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs

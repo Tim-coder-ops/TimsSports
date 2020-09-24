@@ -40,3 +40,14 @@
 ![8-11](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%208-11.PNG) 
 ## Tests
 ![tests](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Tests%201.PNG) 
+
+# Chapter 9:
+
+## Figure 9-4
+![8-5](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%209-4.PNG) 
+## Figure 9-5
+![8-10](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%209-5.PNG) 
+## Figure 9-6
+![8-11](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Fig%209-6.PNG) 
+## Test 2
+![tests](https://github.com/Tim-coder-ops/TimsSports/blob/master/Screen%20Captures/Test%202.PNG)

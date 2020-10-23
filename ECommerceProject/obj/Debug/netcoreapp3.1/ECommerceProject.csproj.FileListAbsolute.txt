@@ -319,3 +319,5 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netc
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs

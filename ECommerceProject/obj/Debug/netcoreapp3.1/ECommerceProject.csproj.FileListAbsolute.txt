@@ -316,3 +316,4 @@ C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netc
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Timwe\OneDrive\Documents\MSSA\TimsStore\ECommerceProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
